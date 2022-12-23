@@ -1,0 +1,50 @@
+Capital of Wyoming?
+Cheyenne
+Jackson
+Casper
+Evanston
+Capital of Washington?
+Olympia
+Seattle
+Vancouver
+Everett
+Capital of North Dakota?
+Bismarck
+Fargo
+Williston
+Minot
+Capital of South Carolina?
+Columbia
+Florence
+Charleston
+Aiken
+Capital of South Dakota?
+Pierre
+Rapid City
+Sioux Falls
+Watertown
+Capital of West Virginia?
+Charleston
+Huntington
+Wheeling
+Fairmont
+Capital of Ohio?
+Columbus
+Cleveland
+Cincinnati
+Kent
+Capital of Oregon?
+Salem
+Portland
+Oregon City
+Roseburg
+Capital of Michigan?
+Lansing
+Detriot
+Flint
+Grand Rapids
+Capital of Minnesota?
+Saint Paul
+Minneapolis
+Minnesota City
+Bloomington

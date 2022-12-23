@@ -1,0 +1,50 @@
+Capital of Maryland?
+Annapolis
+Baltimore
+Ocean City
+Fredrick
+Capital of Nevada?
+Carson City
+Las Vegas
+Reno
+Henderson
+Capital of Kentucky?
+Frankfort
+Louisville
+Lexington
+Mammoth
+Capital of Iowa?
+Des Moines
+Iowa City
+Ames
+Waterloo
+Capital of Florida?
+Tallahassee
+Miami
+Orlando
+Tampa
+Capital of Alabama?
+Montgomery
+Birmingham
+Auburn
+Hoover
+Capital of Georgia?
+Atlanta
+Augusta
+Savannah
+Helen
+Capital of Hawaii?
+Honolulu
+Honolu
+Honlulu
+Honololo
+Capital of Pennsylvania?
+Harrisburg
+Philadelphia
+Gettysburg
+Allentown
+Capital of Mississippi?
+Jackson
+Oxford
+Gulfport
+Laurel 

@@ -1,0 +1,50 @@
+Capital of New Jersey?
+Trenton
+Newark
+Fort Lee
+Clifton
+Capital of New York?
+Albany
+New York City
+Buffalo
+Bronx
+Capital of Massachusetts?
+Boston
+Salem
+Cambridge
+Lynn
+Capital of California?
+Sacramento
+Los Angeles
+San Diego
+San Francisco
+Capital of Texas?
+Austin
+Houston
+Dallas
+San Antonio
+Capital of Kansas?
+Topeka
+Kansas City
+Wichita
+Kansas Town
+Capital of Oklahoma?
+Oklahoma City
+Tulsa
+Edmond
+Norman
+Capital of Indiana?
+Indianapolis
+Bloomington
+Fort Wayne
+Indiana City
+Capital of Rhode Island?
+Providence
+Newport
+Bristol
+Lincoln
+Capital of Illinois?
+Springfield
+Chicago
+Rockford
+Smithville
